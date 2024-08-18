@@ -1,4 +1,6 @@
 # 💫 About Me:
+![63db00d5-43a5-4725-81ea-44d8ef2f2124](https://github.com/user-attachments/assets/7fb718ce-fa50-4a96-b16f-708ae6283db2)
+
 🔭 I am currently an ASP .Net web programmer. <br>🤝I am currently working at FPT Software Can Tho. <br>👯 I look forward to exchanging and learning experiences about .Net knowledge.<br>🌱  It was a pleasure working with you.
 
 
